@@ -1,0 +1,24 @@
+USFA03
+
+Pretende-se saber qual o conjunto de potenciais materiais a usar nas paredes interiores, assim como  nas portas de acesso.
+
+Deste modo, para satisfazer a estrutura do armazém e as temperaturas desejadas em cada divisória, escolhemos os materiais de construção com boas condições a nível  térmico, ou seja, com a condutibilidade térmica mais baixa possível.
+
+
+•	Paredes interiores:
+
+Para as paredes interiores, os 3 materiais para as 3 diferentes camadas são os seguintes:
+
+	Camada Externa: Tijolo Cerâmico Furado, com k=0,60W/mK e largura: 289mm
+	Camada de Isolamento:Espuma Rígida de Poliuretano com K=0,022W/mK e largura: 3mm
+	Camada Interna:Pladur com k=,038W/mK e largura: 93mm
+
+
+
+•	Portas de acesso:
+
+Para as portas de acesso, os 2 materiais para as 2 diferentes camadas são os seguintes:
+
+	Armação Exterior:PVC, com k=0,60W/mK e largura: 72mm
+	Enchimento Interior:Espuma Rígida de Poliuretano, com k=0,022W/mK e largura: 70mm
+

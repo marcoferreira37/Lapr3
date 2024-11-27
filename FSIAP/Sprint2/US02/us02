@@ -1,0 +1,31 @@
+USFA02
+
+Pretende-se saber qual o conjunto de potenciais materiais a usar nas paredes da estrutura de expansão e paredes interiores, assim como do respetivo telhado.
+
+Deste modo, para satisfazer a estrutura do armazém e as temperaturas desejadas em cada divisória, escolhemos os materiais de construção com boas condições a nível  térmico, ou seja, com a condutibilidade térmica mais baixa possível.
+
+•	Paredes Exteriores:
+Para as paredes exteriores, serão escolhidos 3 materiais diferentes, um para a camada externa, um para a camada de isolamento e um para a camada interna.
+
+	Camada externa:  PVC, com k = 0,3W/mK e largura= 10mm
+	Camada de isolamento: Espuma rígida do,e poliuretano, com k=0,25W/mk  e com largura=190mm
+	 Camada interna: Tijolo cerâmico, com k=1,0W/mK e com largura=100mm
+
+
+•	Telhado:
+Para o telhado de dupla inclinação,os 3 materias para as 3 diferentes camadas são os seguintes:
+	Camada externa:telhas de cerâmica,com k=1,1W/mK
+	Camada de isolamento:espuma de poliuretano,com k=0,025W/mK  e com largura=112mm
+	Camada interna:placa de gesso cartonado,k=0,25W/mK e com largura=10.4mm
+
+•	Portas Exteriores
+
+Para as portas exteriores, os 2 materiais para as 2 diferentes camadas são os seguintes:
+	Armação Exterior: PVC, com k= 0,3 W/mK e largura: 10 mm
+	Enchimento Interior: Espuma Rígida de Poliuretano, com 		K= 0,25 W/mK e largura: 190 mm
+
+•	 Janelas:
+
+Para as janelas, os 2 materiais para as 2 diferentes camadas são os seguintes:
+	Armação: PVC , k= 0,3 W/mK
+	Interior da Janela: Vidro, com k= 1,0 W/mK

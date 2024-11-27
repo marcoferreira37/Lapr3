@@ -1,0 +1,12 @@
+Rega - {Data: 2023-12-12, Parcela: A, Rega efetuada das 7:30 às 7:44}
+
+Rega - {Data: 2023-12-12, Parcela: B, Rega efetuada das 7:44 às 7:52}
+
+Rega - {Data: 2023-12-12, Parcela: C, Rega efetuada das 7:52 às 8:17}
+
+Rega - {Data: 2023-12-12, Parcela: D, Rega efetuada das 8:17 às 8:42}
+
+Rega - {Data: 2023-12-12, Parcela: E, Rega efetuada das 8:42 às 8:49}
+
+Rega - {Data: 2023-12-12, Parcela: F, Rega efetuada das 8:49 às 8:59}
+
